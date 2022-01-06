@@ -21,4 +21,5 @@ getFormattedTime	KEYWORD2
 getEpochTime	KEYWORD2
 setTimeOffset	KEYWORD2
 setUpdateInterval	KEYWORD2
-setPoolServerName	KEYWORD2
+setPoolServerName	KEYWORD
+smkr smkr smkr
